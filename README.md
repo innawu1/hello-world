@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+=============
+
+Hello!
+
+I like tacos, chicken, and pizza. I hope we all get along!
